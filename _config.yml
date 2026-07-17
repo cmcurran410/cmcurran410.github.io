@@ -1,7 +1,9 @@
 ### your site title here
 
 title: Cristian Curran
-description: Project Coordinator - REDS Lab | Auburn University | Science is cool, y'all 🤠
+description: | 
+ Project Coordinator - REDS Lab, Auburn University 
+ Science is cool, y'all 🤠
 
 baseurl: "/" #name of GitHub repository
 url: "https://cmcurran410.github.io" #custom url to be used instead of GitHub repository
@@ -19,7 +21,7 @@ github: "cmcurran410"
 researchgate: "#"
 orcid: "0009-0008-4074-1280"
 quora: "#"
-instagram: "#"
+instagram: "cmcurran_410"
 facebook: "#"
 bluesky: "cmcurran410.bsky.social"
 substack: "cmcurran"
