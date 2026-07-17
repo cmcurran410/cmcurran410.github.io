@@ -13,16 +13,16 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/cristian-curran-9a5606172"
+linkedin: "cristian-curran-9a5606172"
 stackoverflow: "#"
-github: "https://github.com/cmcurran410"
+github: "cmcurran410"
 researchgate: "#"
-orcid: "https://orcid.org/0009-0008-4074-1280"
+orcid: "0009-0008-4074-1280"
 quora: "#"
 instagram: "#"
 facebook: "#"
-bluesky: "https://bsky.app/profile/cmcurran410.bsky.social"
-substack: "https://cmcurran.substack.com/"
+bluesky: "cmcurran410.bsky.social"
+substack: "cmcurran"
 
 # Markdown
 highlighter: rouge
