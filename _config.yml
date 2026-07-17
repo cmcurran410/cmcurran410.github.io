@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Cristian Curran
+description: Project Coordinator - REDS Lab Auburn University | Science is cool, y'all 🤠
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "/" #name of GitHub repository
+url: "https://cmcurran410.github.io" #custom url to be used instead of GitHub repository
+email: cmc0358@auburn.edu #
 
 # Pagination
 paginate: 4
@@ -13,16 +13,16 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/cristian-curran-9a5606172"
 stackoverflow: "#"
-github: "#"
+github: "https://github.com/cmcurran410"
 researchgate: "#"
-orcid: "#"
+orcid: "https://orcid.org/0009-0008-4074-1280"
 quora: "#"
 instagram: "#"
 facebook: "#"
-bluesky: "#"
-substack: "#"
+bluesky: "https://bsky.app/profile/cmcurran410.bsky.social"
+substack: "https://cmcurran.substack.com/"
 
 # Markdown
 highlighter: rouge
