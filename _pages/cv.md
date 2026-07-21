@@ -209,7 +209,7 @@ line-height:115%;font-family:sans-serif">Conference Presentations</span></p>
   Convention of the Association for Behavioral and Cognitive Therapies (ABCT), <span>New Orleans, LA.</span></span></p>
   <p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.5in;text-indent:-.5in;line-height:115%"><span style="font-family:
-  sans-serif;background:white">&nbsp;</span></p>
+  sans-serif">&nbsp;</span></p>
   </td>
   <td style="border:none;padding:0in 0in 0in 0in" width="32"><p class="MsoNormal">&nbsp;</p></td>
  </tr>
