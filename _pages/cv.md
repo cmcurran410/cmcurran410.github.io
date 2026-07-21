@@ -1,3 +1,9 @@
+---
+title: CV
+layout: default
+permalink: /cv/
+published: true
+---
 <div class="WordSection1">
 
 <p class="MsoNormal" align="center" style="text-align:center;line-height:115%"><span style="font-size:20.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,serif">Cristian

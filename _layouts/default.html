@@ -11,6 +11,11 @@
 
   {% unless layout.hide_header_nav or page.hide_header_nav %}
   <header>
+    <a href = "{{ site.baseurl }}/">
+    <img src= "{{ site.baseurl }}/_site/assets/favicon/Cmc.png" 
+        alt="Logo"
+        class = "site-logo">
+        </a>
     <h1 class="post-headline">{{site.title}}</h1>
     <h3 class="post-description">{{site.description}}</h3>
     <h3 class="post-subtitle">{{site.subtitle}}</h3>
@@ -25,6 +30,9 @@
   {% include mathjax.html %}
 
   <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+
+
+  
   <script type="text/javascript">
     (function () {
       var css = document.createElement('link');
