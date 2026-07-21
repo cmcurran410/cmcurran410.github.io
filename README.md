@@ -1,3 +1,6 @@
+This web page was made using the Gradfolio template:
+<br>
+<br>
 # Gradfolio
 
 <p align="center">
