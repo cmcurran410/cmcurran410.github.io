@@ -1,13 +1,13 @@
 ---
 title:
 layout: default
-image: construction.png
 permalink: /projects/
 published: true
 ---
 
 <p>This page is still under construction! Stay tuned...</p>
 <br>
+<img src="construction.png" alt = "This image won't even load but look, I'm trying my best :(">
 
 <!-- <div class="ProjectContainer">
 
