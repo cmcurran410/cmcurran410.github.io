@@ -7,7 +7,10 @@ published: true
 
 <p>This page is still under construction! Stay tuned...</p>
 <br>
-<img src="../_site/assets/images/construction.png" alt = "This image won't even load but look, I'm trying my best :(">
+<p align="center">
+  <img src="{{ '../_site/assets/images/construction.png' | relative_url }}" alt = "This image won't even load but look, I'm trying my best :("/>
+</p>
+
 
 <!-- <div class="ProjectContainer">
 
