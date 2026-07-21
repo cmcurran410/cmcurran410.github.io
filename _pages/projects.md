@@ -1,12 +1,15 @@
 ---
 title:
 layout: default
+image: construction.png
 permalink: /projects/
 published: true
 ---
 
+<p>This page is still under construction! Stay tuned...</p>
+<br>
 
-<div class="ProjectContainer">
+<!-- <div class="ProjectContainer">
 
 	<div class="gallery">
 
@@ -42,4 +45,4 @@ published: true
 
 	</div>
 
-</div>
+</div> -->
