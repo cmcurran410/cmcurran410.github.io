@@ -8,7 +8,7 @@ published: true
 <p>This page is still under construction! Stay tuned...</p>
 <br>
 <p align="center">
-  <img src="../_site/assets/images/construction.png" alt = "This image won't even load but look, I'm trying my best :("/>
+  <img src="../assets/images/construction.png" alt = "This image won't even load but look, I'm trying my best :("/>
 </p>
 
 
