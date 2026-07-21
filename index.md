@@ -16,8 +16,8 @@ In my free time (what's that?), you can find me out in nature, probably on a hik
 <br><br>
 
 <h2>News</h2>
-<div style="overflow-y: auto; width: 1000px; height: 300px;">
-    <div style="margin-top: -100px; width: 100%; height: 400px">
+<div style="overflow-y: auto; width: 900px; height: 300px; justify-content: center">
+    <div style="width: 100%; height: 400px">
       <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
       <bsky-embed 
         username="cmcurran410.bsky.social"
