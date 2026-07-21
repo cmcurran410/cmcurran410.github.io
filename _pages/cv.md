@@ -7,8 +7,7 @@ published: true
 
 <div class="WordSection1">
 
-<p class="MsoNormal" align="center" style="text-align:center;line-height:115%"><span style="font-size:20.0pt;line-height:115%;font-family:sans-serif">Cristian
-Miguel Curran</span></p>
+<p class="MsoNormal" align="center" style="text-align:center;line-height:115%"><span style="font-size:20.0pt;line-height:115%;font-family:sans-serif">Cristian M. Curran</span></p>
 
 <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:0in;
 margin-top:0in;text-align:center;line-height:115%"><span style="font-size:12.0pt;
