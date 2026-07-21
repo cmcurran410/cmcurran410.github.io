@@ -17,7 +17,7 @@ In my free time (what's that?), you can find me out in nature, probably on a hik
 
 <h2>News</h2>
 <div style="overflow-y: auto;border: 3px double rgba(164, 195, 204, 0.87);
-border-radius: 24px; width: 900px; height: 300px; justify-content: center">
+border-radius: 24px; width: 750px; height: 300px; justify-content: center">
     <div style="width: 100%;">
       <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
       <bsky-embed 
