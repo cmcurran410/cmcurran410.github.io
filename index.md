@@ -16,11 +16,11 @@ In my free time (what's that?), you can find me out in nature, probably on a hik
 <br><br>
 
 <h2>News</h2>
-<br>
+<div class="scrollable-container">
 <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 <bsky-embed 
   username="cmcurran410.bsky.social"
-  limit="2"
   mode="dark"
   >
 </bsky-embed>
+</div>
