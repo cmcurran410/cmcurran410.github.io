@@ -5,13 +5,6 @@ permalink: /cv/
 published: true
 ---
 
-# Cristian M. Curran
-
-Project Coordinator, Auburn University  
-188 Cary Hall, Auburn, AL 36849
-
-**Email:** cmc0358@auburn.edu  
-**ORCID:** 0009-0008-4074-1280
 
 ## Education
 
@@ -25,18 +18,21 @@ Project Coordinator, Auburn University
 
 - Minor: Business Administration
 
+
 ## Publications
 
-\* denotes co-first authorship.
+*\+ denotes co-first authorship.*
 
-- **Curran, C.**, Wu, K.C., Harris, L., et al. (*under review*). *Characterizing Momentary Suicidal Thoughts in Adults with Restrictive Eating Disorders and Suicidality*. Archives of Suicide Research.
-- Carter, J., **Curran, C.**, & Smith, A. (*under review*). *A Psychometric Analysis of the Fearlessness About Suicide Scale Across Age Groups*. Suicide and Life-Threatening Behaviors.
+- **+Curran, C.**, Wu, K.C., Harris, L., et al. (*under review*). *Characterizing Momentary Suicidal Thoughts in Adults with Restrictive Eating Disorders and Suicidality*. Archives of Suicide Research.
+- Carter, J., **+Curran, C.**, & Smith, A. (*under review*). *A Psychometric Analysis of the Fearlessness About Suicide Scale Across Age Groups*. Suicide and Life-Threatening Behaviors.
 - Abramovitch, A., Borrelli, D., **Curran, C.**, & Dar, R. (2025). *Impulsivity in Obsessive-Compulsive Disorder: A Systematic Review and Meta-Analysis*. Journal of Affective Disorders.
+
 
 ## Talks
 
 - **Curran, C.**, Harris, L., Wu, K.C., et al. (2026). *Interoception and Mood Instability in Relation to Non-Suicidal Self-Injury among Individuals with Restrictive Eating Disorders*. Suicide Research Symposium.
 - Wu, K.C., Torres, R., Harris, L.M., **Curran, C.**, Cash, E.D., Smith, A.R., & Levinson, C.A. (2026, April 17). _Effects of Heart Rate Variability and Agitation on Suicidality Among Adults with Restrictive Eating Disorders_ \[Data Blitz/Talk\]. Suicide Research Symposium (SRS).
+
 
 ## Conference Presentations
 
@@ -57,6 +53,7 @@ _Regional Conferences:_
 - Shepard, M., **Curran, C.**, Solis, A., Buchanan, A., Deason, R. (2023, October 7). _Examining music-related enhancements for source memory and confidence judgments._ \[Poster Presentation\]. ARMADILLO Conference, San Marcos, TX.
 - Shepard, M., Solis, A., **Curran, C.**, Conway, G., Deason, R. (2023, March 31). _Using music to enhance source memory for new information._ \[Poster Presentation\]. Southwestern Psychological Association Convention, Frisco, TX.
 
+
 ## Scholarships and Grants
 
 **Texas State Tuition Grant**
@@ -67,6 +64,7 @@ $1,950 awarded per semester to graduate students demonstrating financial need.
 $1,100 awarded to students demonstrating financial need.
 09/**2021**
 
+
 ## Academic Awards
 
 **Academic Excellence Award**
@@ -76,6 +74,7 @@ Awarded to psychology students who have demonstrated exceptional academic perfor
 **Dean’s List**
 Awarded to undergraduate students with a 3.5+ GPA for that semester.
 05/**2019**, 05/**2022**, 12/**2022**
+
 
 ## Research Experience
 
@@ -113,6 +112,7 @@ Texas State University, San Marcos, TX
 _PI:_ Melinda Villagran, Ph.D.; Elizabeth Ekren, Ph.D.
 _Focus:_ Interdisciplinary approach to examining contributors to healthcare access and quality, particularly in rural Texas using large-scale multi-organizational studies.
 06/**2024 –**08/**2024**
+
 
 ## Teaching Experience
 
@@ -162,12 +162,14 @@ Texas State University, San Marcos, TX
 _Instructor:_ Rebecca Deason, Ph.D. (25 undergraduate students)
 01/**2024 –** 05/**2024**
 
+
 ## Clinical Experience
 
 **Rehabilitation Educator**
 Rehab Without Walls, Kingsbury, TX
 _Description:_ Facilitated prescribed cognitive and physical exercises for geriatric clients with traumatic brain injuries (TBIs) and assisted clients with activities of daily living (ADLs).
 01/**2023 –** 09**/2023**
+
 
 ## Projects
 
@@ -185,6 +187,7 @@ _Purpose:_ To teach and promote open science methods in neuroscience using tools
 _Project:_ [TLDR](https://github.com/cmcurran410/tldr2024): A proof-of-concept Python application that utilizes machine learning to compile Zotero libraries and display summarized information.
 08/**2024**
 
+
 ## Organization Memberships
 
 **Clinical Psychological Science Special Interest Group**
@@ -199,6 +202,7 @@ _Member_
 _Historian—Texas State University Chapter_
 11/**2021 – Present**
 _05/2022 – 12/2022_
+
 
 ## Volunteer Experience
 
@@ -226,6 +230,7 @@ _Mock Interviewer_
 _Poster Judge_
 03/**2026**
 
+
 ## Relevant Skills
 
 - SPSS Statistics
@@ -242,13 +247,17 @@ _Poster Judge_
 - REDCap Surveys
 - Suicide Risk Assessments
 
+
 ## Languages
 
 - English
-_Native_
+
+    _Native_
 
 - Spanish
-_Native_
+
+    _Native_
+
 
 ## Links
 
